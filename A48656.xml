@@ -1,0 +1,213 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A second, and a third letter from the Lord Lambert, dated at Chester, August 21, and read in Parliament, Tuesday Aug. 23 the one directed to the Speaker of the Parliament, the other, to the Lo. President of the Council of State : together with a letter from Major Edm. Waring, Governor of Shrewsbury, of the same date : wherein is set forth the manner of the surrender of Chester, with the names of the principal persons taken prisoners, and the state of affairs concerning the issue of this rebellion.</title>
+            <author>Lambert, John, 1619-1683.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A48656</idno>
+            <idno type="STC">Wing L242</idno>
+            <idno type="STC">ESTC R3324</idno>
+            <idno type="EEBO-CITATION">12891976</idno>
+            <idno type="OCLC">ocm 12891976</idno>
+            <idno type="VID">95113</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A48656)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 95113)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 718:28)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A second, and a third letter from the Lord Lambert, dated at Chester, August 21, and read in Parliament, Tuesday Aug. 23 the one directed to the Speaker of the Parliament, the other, to the Lo. President of the Council of State : together with a letter from Major Edm. Waring, Governor of Shrewsbury, of the same date : wherein is set forth the manner of the surrender of Chester, with the names of the principal persons taken prisoners, and the state of affairs concerning the issue of this rebellion.</title>
+                  <author>Lambert, John, 1619-1683.</author>
+                  <author>Waring, Edmund.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Tho. Newcomb ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Chester (England) --  History --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-12</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2009-12</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:95113:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 35 -->
+            <p>
+               <hi>A Second, and a Third</hi> LETTER FROM THE Lord <hi>LAMBERT,</hi> Dated at <hi>Cheſter,</hi> Auguſt 21. And read in Parliament, Tueſday Aug. 23.</p>
+            <p>The One directed To the Speaker of the Parliament; The Other, To the Lo: Preſident of the Council of State; Together With a Letter from Major <hi>Edm: Waring</hi> Governor of <hi>Shrewsbury,</hi> of the ſame Date.</p>
+            <p>Wherein is ſet forth the Manner OF THE Surrender of Cheſter, With the Names of the Principal Perſons taken Priſoners, and the ſtate of Affairs concerning the Iſſue of this Rebellion.</p>
+            <p>
+               <hi>London,</hi> Printed by <hi>Tho. Newcomb</hi> over againſt <hi>Bainards</hi> Caſtle in <hi>Thames-ſtreet,</hi> 1659.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:95113:2"/>
+            <!-- PDF PAGE 36 -->
+            <pb n="3" facs="tcp:95113:2"/>
+            <!-- PDF PAGE 36 -->
+            <head>The Lord <hi>Lamberts</hi> Letter to the Right Honorable the Speaker of the Par<g ref="char:EOLhyphen"/>liament.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>BEing according to thoſe Reſolutions I laſt acquainted you with, upon our march towards <hi>Chester,</hi> we were met by two perſons from that City, who were inſtructed to offer ſome Tearms of ſurrender thereof; I ſuppoſe up<g ref="char:EOLhyphen"/>on fear, leaſt the Town ſhould become a Prey to the Sol<g ref="char:EOLhyphen"/>diers. Having heard what they had to ſay, I called toge<g ref="char:EOLhyphen"/>ther divers of the Officers, and acquainted them there<g ref="char:EOLhyphen"/>with, who adviſed me to this Anſwer; <hi>That if they would ſet open their Gates on the morrow by Ten of the Clock, ſub<g ref="char:EOLhyphen"/>mitting themſelves wholly to the Parliament, and receive in ſuch Forces as ſhould be appointed, I would engage that no Sol<g ref="char:EOLhyphen"/>dier by violence ſhould take any thing from them;</hi> And laſtly, <hi>That I would attend for their anſwer till eight of the Clock the next morning, without any further action.</hi> Whereupon the Enemy finding themſelves incapable to ſtand upon their own defence, and the City declining all further aſſiſtance, that night in confuſion, in ſmall parties, they left the Town, and about Ten of the Clock, finding the Gates open, we marched in with one Regiment of Foot, and two Troops of Horſe. Upon my march thither, I met
+<pb n="4" facs="tcp:95113:3" rendition="simple:additions"/>
+               <!-- PDF PAGE 37 -->with two Inhabitants from <hi>Leverpoole,</hi> and one Mr. <hi>Brown</hi> who had formerly been in your ſervice, who upon the route of the Enemy, got ſome well affected together, and took divers priſoners of the routed forces, which had fled that way. They inform me that that Town hath conti<g ref="char:EOLhyphen"/>nued very faithful to your ſervice, and that the Governor appointed by the Enemy, did aſſure them before hand, That he would keep that place for your ſervice, and hath now declared for you. Before I had this information, I ſent Major <hi>Hoare</hi> with three Companies of Foot of Co<g ref="char:EOLhyphen"/>lonel <hi>Hewſons</hi> Regiment, and three Troops of Horſe to reduce that place, whom I have ordered notwithſtanding this, to proceed according to his former inſtructions, and having ſecured that place, by putting in ſome of his men to march up to a conjunction with the reſt of that Regi<g ref="char:EOLhyphen"/>ment in <hi>Lancaſhire,</hi> in caſe they ſhould meet with any op<g ref="char:EOLhyphen"/>poſition there. It is the earneſt deſire of thoſe per<g ref="char:EOLhyphen"/>ſons, that the Caſtle may be demoliſhed, which I hum<g ref="char:EOLhyphen"/>bly conceive may be for your ſervice, and pray your di<g ref="char:EOLhyphen"/>rections therein. I have ſent a Summons to <hi>Harding</hi> Caſtle which I hope will be delivered; It is likewiſe the deſire of ſome of the well-affected in theſe parts, that the Ca<g ref="char:EOLhyphen"/>ſtle may be demoliſhed, which I likewiſe ſubmit to your conſideration. Sir <hi>Thomas Middleton</hi> yeſterday paſt over the Ferry at <hi>Ronckhorne,</hi> and came to this Town, and as I am informed, is gone to <hi>Chirk</hi> Caſtle. I have ſent thither a Summons, and have accompanied it with three Troops of Horſe, and four Companies of Foot, under the com<g ref="char:EOLhyphen"/>mand of Colonel <hi>Biſcoe,</hi> and intend (if it pleaſe God to give a Bleſſing to your forces gone into <hi>Lancaſhire</hi>) to go thither my ſelf to morrow, I doubt not but the Inſurrecti<g ref="char:EOLhyphen"/>on in theſe parts will be wholly broken.</p>
+            <pb n="5" facs="tcp:95113:3"/>
+            <!-- PDF PAGE 37 -->
+            <p>I <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> more at preſent worthy your knowledge, and there<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> 
+               <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>all onely on their behalf deſire, That the For<g ref="char:EOLhyphen"/>ces may be ſupplied with ſome proportion of pay, where<g ref="char:EOLhyphen"/>of at this time they ſtand in great need. Sir, I ſhall hum<g ref="char:EOLhyphen"/>bly ſubſcribe.</p>
+            <closer>
+               <signed>Your moſt faithful and moſt humble Servant J. Lambert,</signed>
+               <dateline>
+                  <hi>Cheſter,</hi> 
+                  <date>
+                     <hi>Auguſt</hi> 21, 1659.</date>
+               </dateline>
+            </closer>
+            <postscript>
+               <p>Sir, The encloſed is a Liſt of ſome Gentlemen and Priſoners taken in the Fight. The Soldiers expreſt great zeale in this ſervice; many loſt and ſpoiled their horſes, whereof I humbly deſire your confideration.</p>
+            </postscript>
+         </div>
+         <div type="letter">
+            <head>The Lord <hi>Lamberts</hi> Letter to the Right Honorable the Lord Preſident of the Council of State.</head>
+            <opener>
+               <salute>My Lord</salute>
+            </opener>
+            <p>I Take the freedome to refer your Lordſhips to mine, to the Parliament of the 21 inſtant, for an accompt of our proceedings with the City of <hi>Cheſter,</hi> which is now poſſeſt by your Forces. I find this City hath ſhown it ſelf very malignant, and thoſe few Friends you have are in great expectations, that you will put the Power of this place as well Civil as Military, into ſuch hands as may be
+<pb n="6" facs="tcp:95113:4"/>
+               <!-- PDF PAGE 38 -->faithfull to you, and a ſecurity and protection to them. In which I humbly offer that ſome effectuall courſe may be ſpeedily taken. If there be any thing in theſe parts which may require my further ſervice and attendance, I ſhall deſire your ſpeedy commands therein, which ſhall be moſt readily obſerved by</p>
+            <closer>
+               <salute>My Lord,</salute> 
+               <signed>Your Lordſhips moſt faithfull humble Servant, J. Lambert.</signed>
+               <dateline>
+                  <hi>Cheſter,</hi> 
+                  <date>
+                     <hi>Auguſt</hi> 21.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letter">
+            <head>The Governor of <hi>Shrewsbury's</hi> Letter to the Right Honorable the Lord Preſi<g ref="char:EOLhyphen"/>dent of the Council of State.</head>
+            <opener>
+               <salute>Right Honorable,</salute>
+            </opener>
+            <p>NO ſooner was the Poſt gon hence yeſterday, but a party of my Troop returned from my Lord <hi>Lambert,</hi> who went to Convoy him ſome Mo<g ref="char:EOLhyphen"/>ney from this Town, and were preſent in the Fight about <hi>Northwich,</hi> and gave me aſſurance, that my Lord had diſ<g ref="char:EOLhyphen"/>patched away an Expreſs to your Honors, with an account of that Affair, to which I humbly referr your Honors. Juſt now the Meſſenger that I ſent your Letter by, direct<g ref="char:EOLhyphen"/>ed to Col. <hi>Croxton</hi> this day fortnight, returned back, who came forth of <hi>Cheſter</hi> laſt night at Ten of the Clock; and before he left the City, Sir <hi>Tho. Middleton,</hi> the Lord <hi>Kil<g ref="char:EOLhyphen"/>morrey,</hi>
+               <pb n="7" facs="tcp:95113:4"/>
+               <!-- PDF PAGE 38 -->with other Gentlemen, with 5. Colours of Horſe, made no ſmall haſte to <hi>Chirke</hi>-Caſtle from <hi>Cheſter.</hi> The Foot that were in the Town mutinyed, threw open the Gates, tore their Colours, and Sir <hi>George Booth</hi> fled out of the North-gate; they only kept a ſlight Guard at the Gates, being drawn from the other Guards in confuſion, and left them in the Caſtle to their own liberty. He aſ<g ref="char:EOLhyphen"/>ſures me, when he came from thence, the Enemy were re<g ref="char:EOLhyphen"/>ſolved to ſhift for themſelves: I held it my duty to haſten this Account. I have ſent the Horſe forth this Garriſon, ſince yeſterday Noon, who are not yet returned. By the Letter I received from my Lord <hi>Lambert</hi> this day, for covert to one, which I diſpatched from him to Col. <hi>Zankey,</hi> I was given to know, That he divided his Army, and intended to march one part towards Cheſter, the other for <hi>Warring<g ref="char:EOLhyphen"/>ton.</hi> Juſt now at Writing, a Boy of this Town, now fled home, confeſſeth, he was under one Capt. <hi>Shenton,</hi> who diſmiſt his Company laſt night at <hi>Cheſter,</hi> and bad them ſhift for themſelves. I crave your favor for my rude Lines, remaining engaged to ſerve you</p>
+            <closer>
+               <dateline>
+                  <hi>Shrewsbury,</hi> 
+                  <date>21. <hi>Auguſt,</hi> 1659. <hi>Ten at night.</hi>
+                  </date>
+               </dateline>
+               <signed>Edmund Waringe.</signed>
+            </closer>
+         </div>
+         <div type="part">
+            <pb n="8" facs="tcp:95113:5" rendition="simple:additions"/>
+            <!-- PDF PAGE 39 -->
+            <p>The principal Priſoners as yet known, ſince the laſt, are,
+<list>
+                  <item>The Lord <hi>Killmorrey.</hi>
+                  </item>
+                  <item>Major <hi>Peter Brook,</hi> an Apoſtate Member of the Parliament.</item>
+                  <item>Sir <hi>William Neile.</hi>
+                  </item>
+                  <item>Major General <hi>Randolph Egerton.</hi>
+                  </item>
+                  <item>Sir <hi>Thomas Powel</hi> of <hi>Flintſhire.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>There were about 400 others, Priſoners, when the Cap<g ref="char:EOLhyphen"/>tain (<hi>viz,</hi> Capt. <hi>Spilman</hi>) took charge of theſe Letters, who came from <hi>Cheſter</hi> on Monday morning, the 22 Inſtant.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
